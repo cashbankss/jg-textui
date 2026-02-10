@@ -14,3 +14,4 @@ function HideText()
 end
 
 exports('HideText', HideText)
+
