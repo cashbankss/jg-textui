@@ -14,3 +14,5 @@ files {"web/*"}
 escrow_ignore {"**/*"}
 
 lua54 "yes"
+
+
